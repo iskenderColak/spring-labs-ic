@@ -1,4 +1,4 @@
-package com.icolak.loosely.loosely;
+package com.icolak.loosely.loosely_solution;
 
 import java.math.BigDecimal;
 import java.util.UUID;
