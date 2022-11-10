@@ -1,5 +1,7 @@
-package com.cydeo;
-import com.cydeo.tightly.BalanceService;
+package com.icolak;
+
+
+import com.icolak.tightly.BalanceService;
 
 import java.math.BigDecimal;
 import java.util.UUID;

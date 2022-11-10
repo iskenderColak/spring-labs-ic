@@ -1,4 +1,4 @@
-package com.cydeo.loosely;
+package com.icolak.loosely;
 
 public class BalanceManager {
     public boolean checkout(

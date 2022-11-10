@@ -1,4 +1,4 @@
-package com.cydeo;
+package com.icolak;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,7 +1,7 @@
-package com.cydeo.tightly;
+package com.icolak.tightly;
 
-import com.cydeo.CustomerBalance;
-import com.cydeo.GiftCardBalance;
+import com.icolak.CustomerBalance;
+import com.icolak.GiftCardBalance;
 
 import java.math.BigDecimal;
 
