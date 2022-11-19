@@ -1,5 +1,6 @@
 package com.icolak;
 
+import com.icolak.service.CartService;
 import com.icolak.service.ProductService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -13,6 +14,9 @@ public class Lab04SpringmvcApplication {
         ApplicationContext context = SpringApplication.run(Lab04SpringmvcApplication.class, args);
         ProductService productService = context.getBean(ProductService.class);
         productService.initialiseProductList();
+
+        CartService cartService = context.getBean(CartService.class);
+        cartService.initialiseCartList();
     }
 
 }
